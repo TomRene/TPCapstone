@@ -22,7 +22,7 @@ I think that the scope is reasonable for a capstone for this class and I will le
 	4- Get my head into the math equations (power, exponential functions) that will be needed for
 	mapping/identifying the patterns and any non-linear regressions needed.
 
-There, that's it. I anticipate many challenges especially upfront in designing and testing the code to identify the pattern so I can work with it, also finding a general rule to map over varying stock price grid numbers into a generalized grid that be normalized for the curve fitting. It's one thing to identify the pattern, it's another to transcribe that pattern into a 'library' of applicable math formulas with an allowable range of expressions. I guess simpler the better but i will have plenty of data to dispel any overfitting errors I guess.
+There, that's it. I anticipate many challenges especially upfront in designing and testing the code to identify the pattern so I can work with it, also finding a general rule to map over varying stock price numbers into a generalized grid that be normalized for the curve fitting? It's one thing to identify the pattern, it's another to transcribe that pattern into a 'library' of applicable math formulas with an allowable range of expressions? I guess the simpler the better and I'll have plenty of data to dispel any overfitting errors I guess.
 
 
 	
