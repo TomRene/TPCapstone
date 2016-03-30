@@ -2,7 +2,7 @@
 
 ## This is my capstone project
 
-A particular stock chart pattern that I have witnessed in the past has intrigued me. I used to call it the parabolic acceleration pattern. Its characteristic configuration is defined by not only higher lows over a defined time period but lows that progressively go higher. The curve that fits underneath these lows in the said timeframe appears to be non- linear, i.e., a typical straight trendline does not fit but rather a form that is more  hyperbolic, exponential, non linear does.
+A particular stock chart pattern that I have witnessed in the past has intrigued me. I used to call it the parabolic acceleration pattern. Its characteristic configuration is defined by not only higher lows over a defined time period but lows that progressively go higher. The curve that fits underneath the lows in the establishing timeframe appears to be non- linear, i.e., a typical straight trendline does not fit but rather a form that is more  hyperbolic, exponential, non linear does.
 
 I have witnessed this pattern many times and i have associated it with a stock or commodity 'breaking out' to the upside. But this evidence is anecdotal to my own point of view and I would like to validate it with real data over a broad spectrum. The question I would like to answer then is the following: Once this 'power' pattern is identified in the inital timeframe, how predictive of ensuing gains is it in a timeframe of equal magnitude to the set-up timeframe?
 
