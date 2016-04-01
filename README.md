@@ -6,7 +6,7 @@ A particular stock chart pattern that I have witnessed in the past has intrigued
 
 I have witnessed this pattern many times and i have associated it with a stock or commodity 'breaking out' to the upside. But this evidence is anecdotal to my own point of view and I would like to validate it with real data over a broad spectrum. The question I would like to answer then is the following: Once this 'power' pattern is identified in the inital timeframe, how predictive of ensuing gains is it in a timeframe of equal magnitude to the set-up timeframe?
 
-I will use data from Yahoo Finance.
+I will use stock data from Yahoo Finance using historical daily time series of highs, lows, and closes.
 
 I am very familiar with the stock market and its patterns. I worked in the markets several years ago and so I chose this subject area because of the familiarity I have with it, and my continuing interest in the domain.
 
