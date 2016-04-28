@@ -4,15 +4,15 @@
 
 _Progress_ to date is the following and all these steps involved much discovery, elaboration and learning:
 
-1) I was able to load historical stock time-series data (IBM for this POC) leveraging the [Yahoo_Finance module]( https://pypi.python.org/pypi/yahoo-finance/1.2.1#usage-examples) which natively created a Pandas dataframe with the OpenHighLowClose data.
+* I was able to load historical stock time-series data (IBM for this POC) leveraging the [Yahoo_Finance module]( https://pypi.python.org/pypi/yahoo-finance/1.2.1#usage-examples) which natively created a Pandas dataframe with the OpenHighLowClose data.
 
-2) Several data transformation steps were then performed to prepare the data for processing and visualization:
+* Several data transformation steps were then performed to prepare the data for processing and visualization:
  * Re-sorting and re-indexing of the data.
  * Normalizing the OHL data for historical adjustment to the stock's adjusted historical closing price which translated into writing functions to populate new columns in the original dataset based on conditional data in said dataset.
 
-3) Next, I was able to leverage the [matplotlib.finance module](http://matplotlib.org/api/finance_api.html) to render OHLC bar charts for the historical data.
+* Next, I was able to leverage the [matplotlib.finance module](http://matplotlib.org/api/finance_api.html) to render OHLC bar charts for the historical data.
 
-4) Then, I wrote a loop method to identify local lows. These local low placements in time within the time-series were then appended to the dataset with an identifying column (LLOW). This series is going to provide the foundational data from which to create the trading model.
+* Then, I wrote a loop method to identify local lows. These local low placements in time within the time-series were then appended to the dataset with an identifying column (LLOW). This series is going to provide the foundational data from which to create the trading model.
 
 The steps above can be viewed in the current notebook called Build001 located in this repo. 
 
