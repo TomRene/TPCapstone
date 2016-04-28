@@ -12,7 +12,7 @@ _Progress_ to date is the following and all these steps involved much discovery,
 
 * Next, I was able to leverage the [matplotlib.finance module](http://matplotlib.org/api/finance_api.html) to render OHLC bar charts for the historical data.
 
-* Then, I wrote a loop method to identify local lows. These local low placements in time within the time-series were then appended to the dataset with an identifying column (LLOW). This series is going to provide the foundational data from which to create the trading model.
+* Then, I wrote a loop method to identify local lows. These local low placements in time within the time-series were then  merged with the dataset with an identifying column (LLOW). This series is going to provide the foundational data from which to create the trading model.
 
 The steps above can be viewed in the current notebook called Build001 located in this repo. 
 
