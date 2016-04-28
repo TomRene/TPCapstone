@@ -18,6 +18,15 @@ The steps above can be viewed in the current notebook called Build001 located in
 
 NEXT STEPS
 
+1. Design a method to return triplets of three consecutive lows that are all higher than each other i.e. L1<L2<L3. This is not trivial in the sense that these may not be consecutive lows and the window of analysis from which triplets would be found can be variable i.e. a triplet may occur in a timeframe of 10 days or a triplet may occur within a timefram of 100 days and smaller triplets may be contained in larger ones (the fractal nature of this)...I have not figured this out yet but it is as of today the center of gravity of design for this project.
+
+2. Concurrently with step 1, figure how to label the lows with matplotlib so as to assist visual discovery and validation as the search and record of the triplet lows is underways.
+
+3. Once step 1 is figured out (there are many ways to do this I'm sure) and proofed, a period of refinement will occur and I will need to build a method that codes in the conditions that determine viable triplets. This exercise will be iterative/recursive aided by visual validation, perhaps also enlisting quadratic fitting but my initial approach will be to write a method that records the slope between Low1 & Low2 and Low2 and Low3.
+ 
+4. An optimization review will need to be conducted to code for the appropriate slope boundaries that characterize the pattern.
+
+These steps are what is on the immediate horizon for this project. Further steps and context can be viewed in the PowerPoint presentation found in this repo. 
 
 
 ##Below, initial update from March 31, 2016
