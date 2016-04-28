@@ -1,6 +1,10 @@
-# TPCapstone
+# Tom Pichard Capstone
 
-## This is my capstone project
+## Below, Update from April 28 2016
+
+
+
+###Below, initial update from March 31 2016###
 
 A particular stock chart pattern that I have witnessed in the past has intrigued me. I used to call it the parabolic acceleration pattern. Its characteristic configuration is defined by not only higher lows over a defined time period but lows that progressively go higher. The curve that fits underneath the lows in the establishing timeframe appears to be non- linear, i.e., a typical straight trendline does not fit but rather a form that is more  hyperbolic, exponential, non linear does.
 
