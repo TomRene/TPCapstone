@@ -28,6 +28,7 @@ NEXT STEPS
 
 These steps are what is on the immediate horizon for this project. Further steps and context can be viewed in the PowerPoint presentation found in this repo. 
 
+LEARNINGS TO DATE have been tremendous especially around data 'munging' and learning Pandas and the DataFrame structure. Designing the methods has been instructional for sure - the real challenge begins now.
 
 ##Below, initial update from March 31, 2016
 
