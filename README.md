@@ -4,8 +4,8 @@
 
 Please read through the following documents found in this repo for the final update
 
-* [Capstone2TomPichard] (http://matplotlib.org/api/finance_api.html) Power Point presentation
-* Capstone Final Write up Word document
+* [Capstone2TomPichard] (https://github.com/TomRene/TPCapstone/blob/master/Capstone2TomPichard.pptx) Power Point presentation
+* [Capstone Final Write up] (https://github.com/TomRene/TPCapstone/blob/master/Tom%20Pichard%20–%20Capstone%20writeUp%20-%20Final.docx) Word document
 
 
 ## Below, Update from April 28, 2016
