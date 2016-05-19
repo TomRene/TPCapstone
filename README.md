@@ -1,5 +1,13 @@
 # Tom Pichard Capstone
 
+## Below, Update from May 19, 2016
+
+Please read through the following documents found in this repo for the final update
+
+*
+*
+
+
 ## Below, Update from April 28, 2016
 
 _Progress_ to date is the following and all these steps involved much discovery, elaboration and learning:
