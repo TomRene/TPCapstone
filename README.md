@@ -4,8 +4,9 @@
 
 Please read through the following documents found in this repo for the final update
 
-* [Capstone2TomPichard] (https://github.com/TomRene/TPCapstone/blob/master/Capstone2TomPichard.pptx) Power Point presentation
-* [Capstone Final Write up] (https://github.com/TomRene/TPCapstone/blob/master/Tom%20Pichard%20–%20Capstone%20writeUp%20-%20Final.docx) Word document
+* [Capstone2TomPichard] (https://github.com/TomRene/TPCapstone/blob/master/Capstone2TomPichard.pptx) Power Point presentation.
+* [Capstone Final Write up] (https://github.com/TomRene/TPCapstone/blob/master/Tom%20Pichard%20–%20Capstone%20writeUp%20-%20Final.docx) Word document.
+* [Python file end-to-end] (https://github.com/TomRene/TPCapstone/blob/master/CapstoneTRP.py) for model 1 of the Capstone.
 
 
 ## Below, Update from April 28, 2016
